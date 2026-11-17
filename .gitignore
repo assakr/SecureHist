@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Large datasets and results
+lung_colon_image_set/
+output_results*/
+*.rar
+*.zip
+
+# PyTorch weights
+*.pth
+*.pt
+
+# Results and local models
+results_v2*/
+models/
+.env

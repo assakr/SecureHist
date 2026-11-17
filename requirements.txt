@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+opencv-python
+Pillow
+PyWavelets
+scikit-image
+scikit-learn
+matplotlib
+torch
+torchvision
+transformers
+accelerate
+huggingface_hub
+safetensors
+bitsandbytes  # optional: 4-bit VLM loading
